@@ -11,8 +11,8 @@ email: commissioner@whereby.us
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://commissioner.us" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/rsm
-  github: https://github.com/rebekahmonson
+  #twitter: https://twitter.com/wherebyus
+  #github: https://github.com/rebekahmonson
   #linkedin-square: https://linkedin.com/in/<username>
   #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
